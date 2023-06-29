@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Ma Project**
 
-- 👨‍💻 All of my projects are available at [https://tolgaugurlu.tech](https://tolgaugurlu.tech)
+- 👨‍💻 All of my projects are available at [https://tolgaugurlu.com](https://tolgaugurlu.com)
 
 - 💬 Ask me about **HTML-CSS-PYTHON**
 
