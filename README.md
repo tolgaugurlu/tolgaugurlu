@@ -19,6 +19,6 @@ Modern yapay zeka araçlarını ve otomasyon sistemlerini birer kaldıraç olara
 * **PulsarTA** — Modern IP tabanlı coğrafi konum takip sistemi ve backend altyapısı.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolgaugurlu/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@tolgaugurlu])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://medium.com/@tolgaugurlu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@tolgaugurlu])
 
 
