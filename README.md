@@ -18,7 +18,7 @@ Modern yapay zeka araçlarını ve otomasyon sistemlerini birer kaldıraç olara
 * **NetProbe** | Gelişmiş ağ tarama ve protokol analiz aracı.
 * **PulsarTA** | Modern IP tabanlı coğrafi konum takip sistemi ve backend altyapısı.
 
-## 🌐
+## 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tolgaugurlu/])
 
 
