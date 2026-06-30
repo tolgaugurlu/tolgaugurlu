@@ -1,6 +1,5 @@
 ### Backend & Automation Developer | Building Systems with AI Leverage
 
-[LinkedIn]([(https://www.linkedin.com/in/tolgaugurlu/)]• [Medium]([https://medium.com/@...](https://medium.com/@https://medium.com/@tolgaugurlu)) • [E-posta](mailto:tolga97ugurlu@icloud.com)
 
 Modern yapay zeka araçlarını ve otomasyon sistemlerini birer kaldıraç olarak kullanarak verimli ve güvenli altyapılar inşa ediyorum. Odak noktam; **Python, SQL ve FastAPI** temelinde çalışan web servisleri geliştirmek. Siber güvenlik ve ağ mimarileri üzerindeki teorik altyapımı pratik, çalışan sistemlere dönüştürüyorum. Karmaşık problemleri çözerken teknolojiyi bir amaç değil, sağlam bir sistem kurmak için bir araç olarak görüyorum.
 
@@ -20,6 +19,6 @@ Modern yapay zeka araçlarını ve otomasyon sistemlerini birer kaldıraç olara
 * **PulsarTA** — Modern IP tabanlı coğrafi konum takip sistemi ve backend altyapısı.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alonzo_church) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tolgaaugurlu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tolga-u%C4%9Furlu-bb076a23b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@tolgaugurlu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Tolgaaugurlu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tolga-u%C4%9Furlu-bb076a23b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@tolgaugurlu)
 
 
